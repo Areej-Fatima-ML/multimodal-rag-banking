@@ -1,0 +1,44 @@
+# API & Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# LLM & Groq
+groq
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# File Parsers
+pymupdf
+python-docx
+python-pptx
+Pillow
+
+# Text Processing
+langchain
+langchain-community
+langchain-text-splitters
+
+# Evaluation
+ragas==0.4.3
+langchain-groq
+langchain-huggingface
+scikit-learn
+datasets
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv
+pandas
+
+# embedding visualize
+matplotlib
+scikit-learn
+numpy
+

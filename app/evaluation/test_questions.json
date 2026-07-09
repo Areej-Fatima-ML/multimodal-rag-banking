@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What are AML regulations?",
+        "ground_truth": "AML regulations require banks to implement policies to prevent money laundering including customer due diligence and suspicious transaction reporting."
+    },
+    {
+        "question": "What are digital banking requirements?",
+        "ground_truth": "Digital banking requirements include cybersecurity framework, consumer protection and regulatory compliance as per SBP guidelines."
+    }
+]

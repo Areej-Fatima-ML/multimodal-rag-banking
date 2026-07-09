@@ -1,0 +1,36 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Vector DB
+chromadb_data/
+chroma_db/
+
+# Documents
+data/documents/
+
+# Downloaded models
+models/
+
+# Offline packages
+packages/
+
+# Databases
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

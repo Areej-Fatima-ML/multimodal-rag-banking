@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+.env
+data/uploads/
+data/progress_*.json
+data/embeddings_sample.json
+*.log
+.git
+.gitignore
